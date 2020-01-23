@@ -8,5 +8,7 @@ NetBeans - Download NetBeans IDE for Java EE Developers
 # Developer: Aslam Rathore
 Email-id aslamrathore9@gmail.com
 
-https://github.com/aslamrathore6/GST-Billing-System-in-JAVA-with-Print-API/issues/new
+
+![Screenshot (297)](https://user-images.githubusercontent.com/57444303/72962403-40f22f80-3dda-11ea-8594-3b7a92db527a.png)
+
 
